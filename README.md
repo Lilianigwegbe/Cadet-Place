@@ -1,6 +1,9 @@
-# Cadet Place - WhatsApp Microlearning Coach
+;# Cadet Place - WhatsApp Microlearning Coach
 
 A beautiful, production-ready microlearning platform designed as a WhatsApp-style chat interface. Cadet Place helps users learn through interactive lessons, quizzes, and gamified progress tracking.
+
+Link: https://cadetplace.netlify.app
+
 
 ![Cadet Place Preview](https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
